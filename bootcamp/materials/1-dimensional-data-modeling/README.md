@@ -138,7 +138,7 @@ There are two methods to get Postgres running locally.
     ```bash
     postgres=# \\i data.dump
     ```
-    
+   
     - → This will run the file `data.dump` from inside your psql REPL.
 
 - If you did the setup using Option 2, and the tables are not in the database, another solution is to: 
